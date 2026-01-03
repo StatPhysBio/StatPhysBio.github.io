@@ -5,4 +5,4 @@ Welcome to the Quantitative Theoretical Learning Adaptation and Evolution in Bio
 ## People
 
 ### Armita Nourmohammad
-Assistant Professor in Immunobiology and Biomedical Engineering. 
+Associate Professor in Immunobiology and Biomedical Engineering, and Associate Director of Theoretical Sciences.
